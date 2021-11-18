@@ -106,12 +106,6 @@ vue create mini-router
 vue add router
 ```
 
-现在的目录结构如下
-
-![](/Users/wangchunyan/Desktop/images/目录结构.png)
-
-
-
 首先把 `router` 文件夹修改为 `myrouter` ，并创建 `myrouter/myrouter.js` ，同步修改 `main.js` 和 `myrouter/index.js` 下的引用
 
 修改 `main.js`
@@ -216,5 +210,5 @@ VueRouter.install=function(_Vue){
 export default VueRouter
 ```
 
-#### 验证效果
+#### 
 
